@@ -1,7 +1,7 @@
 # Version-Control-Assignment
 ## SSH Key
 
-<img width="776" height="544" alt="image" src="https://github.com/user-attachments/assets/a0759913-3f4a-49a6-a6fa-7225b696c1e4" />
+<img width="776" height="544" alt="image" src="C:\Users\mohes\OneDrive\Pictures\Screenshots\Screenshot 2025-12-23 152808.png" />
 
 ---
 
@@ -14,4 +14,4 @@ The tasks focus on building web pages using **HTML** and styling them using **CS
 ---
 
 ## Structure
-<img width="240" height="487" alt="Screenshot 2025-12-23 154811" src="https://github.com/user-attachments/assets/d30a894b-dce4-40b3-9626-0a888d175d75" />
+<img width="240" height="487" alt="image" src="C:\Users\mohes\OneDrive\Pictures\Screenshots\Screenshot 2025-12-23 154811.png"/>
